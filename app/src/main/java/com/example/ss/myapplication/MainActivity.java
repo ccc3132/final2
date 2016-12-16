@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         Ra1.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener(){
             public void onCheckedChanged(RadioGroup group, int checkedId){
                 if(r1.isChecked()){
-                    I1.setImageResource(R.drawable.noli1);
+                    I1.setImageResource(R.drawable.noil);
                 }
                 else if(r2.isChecked()){
                     I1.setImageResource(R.drawable.noli2);
