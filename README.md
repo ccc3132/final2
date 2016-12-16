@@ -9,7 +9,8 @@
 <H2>시간설정<H2><HR><br>
 <img src = "https://github.com/ccc3132/final2/blob/master/app/src/main/res/drawable/Screenshot_1481890423.png?raw=true" width=200><br><br>
 
-<H2>날짜설정<H2><HR><br><img src = "https://github.com/ccc3132/final2/blob/master/app/src/main/res/drawable/Screenshot_1481890413.pngraw=true" width=200><br><br>
+<H2>날짜설정<H2><HR><br><img src =
+"https://github.com/ccc3132/final2/blob/master/app/src/main/res/drawable/Screenshot_1481890413.png?raw=true" width=200><br><br>
 
 
 
